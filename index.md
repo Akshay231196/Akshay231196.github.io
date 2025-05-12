@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Akshay Prajapati - Portfolio
+Layout: Default
+Title: Akshay Prajapati - Portfolio
 ---
 
 # Welcome to Akshay Prajapati's Portfolio
@@ -20,7 +20,7 @@ Explore my categorized projects below.
 ## 📊 Power BI Projects
 
 <div style="display: flex; gap: 16px; align-items: center; margin-bottom: 24px;">
-  <img src="https://via.placeholder.com/120x80.png?text=Power+BI" width="120" height="80" style="object-fit: cover; border: 1px solid #ccc;">
+  <img src="https://raw.githubusercontent.com/Akshay231196/Power-BI-Projects-Portfolio/main/Energy-Consumptions-Dashboard-main/Energy-Consumptions-Dashboard-main/Energy.png" width="120" height="80" style="object-fit: cover; border: 1px solid #ccc;">
   <div>
     <b>Energy Consumption Dashboard</b><br>
     Analyze building-level energy usage and detect anomalies using Power BI visualizations.<br>
@@ -29,7 +29,7 @@ Explore my categorized projects below.
 </div>
 
 <div style="display: flex; gap: 16px; align-items: center; margin-bottom: 24px;">
-  <img src="https://via.placeholder.com/120x80.png?text=Power+BI" width="120" height="80" style="object-fit: cover; border: 1px solid #ccc;">
+  <img src="https://raw.githubusercontent.com/Akshay231196/Power-BI-Projects-Portfolio/main/HR-Analytics-Dashboard-main/HR-Analytics-Dashboard-main/HR.png" width="120" height="80" style="object-fit: cover; border: 1px solid #ccc;">
   <div>
     <b>HR Analytics Dashboard</b><br>
     Explore attrition trends, department-level breakdowns, and risk factors using Power BI.<br>
@@ -38,7 +38,7 @@ Explore my categorized projects below.
 </div>
 
 <div style="display: flex; gap: 16px; align-items: center; margin-bottom: 24px;">
-  <img src="https://via.placeholder.com/120x80.png?text=Power+BI" width="120" height="80" style="object-fit: cover; border: 1px solid #ccc;">
+  <img src="https://raw.githubusercontent.com/Akshay231196/Power-BI-Projects-Portfolio/main/Procurement-Analytics-Dashboard-main/Procurement-Analytics-Dashboard-main/Procurement.png" width="120" height="80" style="object-fit: cover; border: 1px solid #ccc;">
   <div>
     <b>Procurement Analytics Dashboard</b><br>
     Track total spend, supplier discounts, and procurement efficiency across time.<br>
@@ -47,13 +47,14 @@ Explore my categorized projects below.
 </div>
 
 <div style="display: flex; gap: 16px; align-items: center; margin-bottom: 24px;">
-  <img src="https://via.placeholder.com/120x80.png?text=Power+BI" width="120" height="80" style="object-fit: cover; border: 1px solid #ccc;">
+  <img src="https://raw.githubusercontent.com/Akshay231196/Power-BI-Projects-Portfolio/main/Food-Delivery-Restaurents-Analysis-main/Food-Delivery-Restaurents-Analysis-main/Food%20Delivery.png" width="120" height="80" style="object-fit: cover; border: 1px solid #ccc;">
   <div>
     <b>Food Delivery Restaurants Analysis</b><br>
     Analyze delivery times, customer satisfaction, and cuisine trends using Power BI dashboards.<br>
     <a href="https://github.com/Akshay231196/Power-BI-Projects-Portfolio/tree/main/Food-Delivery-Restaurents-Analysis-main/Food-Delivery-Restaurents-Analysis-main" target="_blank">View Project</a>
   </div>
 </div>
+
 ---
 
 ## 🛢 SQL Projects
