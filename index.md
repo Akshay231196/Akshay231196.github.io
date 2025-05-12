@@ -5,7 +5,7 @@ Title: Akshay Prajapati - Portfolio
 
 # Welcome to Akshay Prajapati's Portfolio
 
-I am **Akshay Prajapati**, a data and business analytics professional with over 6 years of cross-industry experience.
+I am **Akshay Prajapati**, a Data and Business Analytics Professional with over 6 years of cross-industry experience.
 
 This portfolio showcases my work across:
 - 🏭 Manufacturing
