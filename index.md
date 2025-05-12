@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Akshay Prajapati - Portfolio
+Layout: Default
+Title: Akshay Prajapati - Portfolio
 ---
 
 # 👋 Welcome
