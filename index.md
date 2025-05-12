@@ -3,7 +3,7 @@ layout: default
 title: Akshay Prajapati - Portfolio
 ---
 
-# 👋 Welcome
+# Welcome to Akshay Prajapati's Portfolio
 
 I am **Akshay Prajapati**, a data and business analytics professional with over 6 years of cross-industry experience.
 
