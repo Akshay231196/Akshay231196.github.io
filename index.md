@@ -50,90 +50,36 @@ Explore my categorized projects below.
 
 ## 🛢 SQL Projects
 
-<div style="display: flex; gap: 16px; align-items: center; margin-bottom: 24px;">
-  <img src="https://via.placeholder.com/120x80.png?text=SQL" width="120" height="80" style="object-fit: cover; border: 1px solid #ccc;">
-  <div>
-    <b>Energy Consumption and Anomaly Detection</b><br>
-    SQL-based trend analysis for energy usage across buildings with anomaly detection.<br>
-    <a href="https://github.com/Akshay231196/SQL_Projects/tree/main/Energy-Consumption-and-Anomaly-Detection-using-SQL-main" target="_blank">View Project</a>
-  </div>
-</div>
+- **[Energy Consumption and Anomaly Detection](https://github.com/Akshay231196/SQL_Projects/tree/main/Energy-Consumption-and-Anomaly-Detection-using-SQL-main)**  
+  SQL-based trend analysis for energy usage across buildings with anomaly detection.
 
-<div style="display: flex; gap: 16px; align-items: center; margin-bottom: 24px;">
-  <img src="https://via.placeholder.com/120x80.png?text=SQL" width="120" height="80" style="object-fit: cover; border: 1px solid #ccc;">
-  <div>
-    <b>Inventory Optimization</b><br>
-    Analyze inventory turnover and procurement efficiency using SQL queries.<br>
-    <a href="https://github.com/Akshay231196/SQL_Projects/tree/main/Inventory-Optimization-main" target="_blank">View Project</a>
-  </div>
-</div>
+- **[Inventory Optimization](https://github.com/Akshay231196/SQL_Projects/tree/main/Inventory-Optimization-main)**  
+  Analyze inventory turnover and procurement efficiency using SQL queries.
 
-<div style="display: flex; gap: 16px; align-items: center; margin-bottom: 24px;">
-  <img src="https://via.placeholder.com/120x80.png?text=SQL" width="120" height="80" style="object-fit: cover; border: 1px solid #ccc;">
-  <div>
-    <b>Real Estate Leasing Analytics</b><br>
-    SQL-based performance tracking for leasing trends and occupancy metrics.<br>
-    <a href="https://github.com/Akshay231196/SQL_Projects/tree/main/Real-Estate-Leasing-Analytics-with-SQL" target="_blank">View Project</a>
-  </div>
-</div>
+- **[Real Estate Leasing Analytics](https://github.com/Akshay231196/SQL_Projects/tree/main/Real-Estate-Leasing-Analytics-with-SQL)**  
+  SQL-based performance tracking for leasing trends and occupancy metrics.
 
-<div style="display: flex; gap: 16px; align-items: center; margin-bottom: 24px;">
-  <img src="https://via.placeholder.com/120x80.png?text=SQL" width="120" height="80" style="object-fit: cover; border: 1px solid #ccc;">
-  <div>
-    <b>Retail Sales Analysis</b><br>
-    Sales performance analytics using SQL window functions and KPIs.<br>
-    <a href="https://github.com/Akshay231196/SQL_Projects/tree/main/Retail_Sales_Analysis_SQL-main" target="_blank">View Project</a>
-  </div>
-</div>
+- **[Retail Sales Analysis](https://github.com/Akshay231196/SQL_Projects/tree/main/Retail_Sales_Analysis_SQL-main)**  
+  Sales performance analytics using SQL window functions and KPIs.
 
 ---
 
 ## 🐍 Python Projects
 
-<div style="display: flex; gap: 16px; align-items: center; margin-bottom: 24px;">
-  <img src="https://via.placeholder.com/120x80.png?text=Python" width="120" height="80" style="object-fit: cover; border: 1px solid #ccc;">
-  <div>
-    <b>Country-Level Insights using Dimensionality Reduction</b><br>
-    Extract and visualize cross-country relationships using PCA and t-SNE techniques.<br>
-    <a href="https://github.com/Akshay231196/Python-Projects/tree/main/Country-Level-Insights-Using-Dimensionality-Reduction" target="_blank">View Project</a>
-  </div>
-</div>
+- **[Country-Level Insights using Dimensionality Reduction](https://github.com/Akshay231196/Python-Projects/tree/main/Country-Level-Insights-Using-Dimensionality-Reduction)**  
+  Extract and visualize cross-country relationships using PCA and t-SNE techniques.
 
-<div style="display: flex; gap: 16px; align-items: center; margin-bottom: 24px;">
-  <img src="https://via.placeholder.com/120x80.png?text=Python" width="120" height="80" style="object-fit: cover; border: 1px solid #ccc;">
-  <div>
-    <b>Customer Segmentation and Behavioral Clustering</b><br>
-    K-means clustering and customer profile creation for marketing strategy.<br>
-    <a href="https://github.com/Akshay231196/Python-Projects/tree/main/Customer-Segmentation-and-Behavioral-Clustering" target="_blank">View Project</a>
-  </div>
-</div>
+- **[Customer Segmentation and Behavioral Clustering](https://github.com/Akshay231196/Python-Projects/tree/main/Customer-Segmentation-and-Behavioral-Clustering)**  
+  K-means clustering and customer profile creation for marketing strategy.
 
-<div style="display: flex; gap: 16px; align-items: center; margin-bottom: 24px;">
-  <img src="https://via.placeholder.com/120x80.png?text=Python" width="120" height="80" style="object-fit: cover; border: 1px solid #ccc;">
-  <div>
-    <b>Customer Sentiment Analysis using NLP</b><br>
-    Text classification and sentiment detection using NLP and Python.<br>
-    <a href="https://github.com/Akshay231196/Python-Projects/tree/main/Customer-Sentiment-Analysis-Using-NLP-Techniques" target="_blank">View Project</a>
-  </div>
-</div>
+- **[Customer Sentiment Analysis using NLP](https://github.com/Akshay231196/Python-Projects/tree/main/Customer-Sentiment-Analysis-Using-NLP-Techniques)**  
+  Text classification and sentiment detection using NLP and Python.
 
-<div style="display: flex; gap: 16px; align-items: center; margin-bottom: 24px;">
-  <img src="https://via.placeholder.com/120x80.png?text=Python" width="120" height="80" style="object-fit: cover; border: 1px solid #ccc;">
-  <div>
-    <b>Employee Attrition Prediction with HR Analytics</b><br>
-    Classification model to predict employee churn based on HR metrics.<br>
-    <a href="https://github.com/Akshay231196/Python-Projects/tree/main/Employee-Attrition-Prediction-with-HR-Analytics" target="_blank">View Project</a>
-  </div>
-</div>
+- **[Employee Attrition Prediction with HR Analytics](https://github.com/Akshay231196/Python-Projects/tree/main/Employee-Attrition-Prediction-with-HR-Analytics)**  
+  Classification model to predict employee churn based on HR metrics.
 
-<div style="display: flex; gap: 16px; align-items: center; margin-bottom: 24px;">
-  <img src="https://via.placeholder.com/120x80.png?text=Python" width="120" height="80" style="object-fit: cover; border: 1px solid #ccc;">
-  <div>
-    <b>Text Data Preparation for Analytical Modeling</b><br>
-    Preprocessing pipeline for cleaning and preparing raw text data for analysis.<br>
-    <a href="https://github.com/Akshay231196/Python-Projects/tree/main/Text-Data-Preparation-for-Analytical-Modeling" target="_blank">View Project</a>
-  </div>
-</div>
+- **[Text Data Preparation for Analytical Modeling](https://github.com/Akshay231196/Python-Projects/tree/main/Text-Data-Preparation-for-Analytical-Modeling)**  
+  Preprocessing pipeline for cleaning and preparing raw text data for analysis.
 
 ---
 
