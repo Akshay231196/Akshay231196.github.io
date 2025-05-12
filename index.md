@@ -46,6 +46,14 @@ Explore my categorized projects below.
   </div>
 </div>
 
+<div style="display: flex; gap: 16px; align-items: center; margin-bottom: 24px;">
+  <img src="https://via.placeholder.com/120x80.png?text=Power+BI" width="120" height="80" style="object-fit: cover; border: 1px solid #ccc;">
+  <div>
+    <b>Food Delivery Restaurants Analysis</b><br>
+    Analyze delivery times, customer satisfaction, and cuisine trends using Power BI dashboards.<br>
+    <a href="https://github.com/Akshay231196/Power-BI-Projects-Portfolio/tree/main/Food-Delivery-Restaurents-Analysis-main/Food-Delivery-Restaurents-Analysis-main" target="_blank">View Project</a>
+  </div>
+</div>
 ---
 
 ## 🛢 SQL Projects
